@@ -3,8 +3,12 @@ langchain
 langchain-community
 langchain-openai
 langchain-text-splitters
+langchain-huggingface
 sentence-transformers
 faiss-cpu
 pypdf
 python-dotenv
 duckduckgo-search
+groq
+torch
+transformers
