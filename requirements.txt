@@ -12,3 +12,4 @@ duckduckgo-search
 groq
 torch
 transformers
+langchain-groq
